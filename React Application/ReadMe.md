@@ -3,5 +3,5 @@ React Application
 
 API and tools used:
 - Ant Design Icons : https://ant.design/components/icon/
-- Axios : https://axios-http.com
+- Axios : https://axios-http.com/docs/intro
 - Chat Engine : https://chatengine.io/docs/getting_started
