@@ -1,0 +1,1 @@
+# SafeTalk-react-app
