@@ -4,7 +4,7 @@ SafeTalk
 
 - A React Application that works as a simple chat engine
 
-- Includes user authentication (users registered on project from chatengine.io platform)
+- Includes user authentication (users registered on project from chatengine.io)
 
 Implemented sample:
 
@@ -22,3 +22,11 @@ Implemented sample:
 
 - Chat Page (with details uncovered)
 <img width="1440" alt="Screenshot 2022-01-15 at 6 09 21 AM" src="https://user-images.githubusercontent.com/67630400/151978529-5f79b844-9d55-4340-a7f0-8750bb693dc3.png">
+
+
+Reference/API and tools used:
+
+- Ant Design Icons : https://ant.design/components/icon/
+- Axios : https://axios-http.com/docs/intro
+- Chat Engine : https://chatengine.io/docs/getting_started
+- React Documentation : https://reactjs.org/docs/getting-started.html 
