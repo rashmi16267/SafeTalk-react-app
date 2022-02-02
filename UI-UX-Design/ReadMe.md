@@ -26,3 +26,4 @@ Chat Page
 <img width="1122" alt="ChatPage-initial ui:uxdesign" src="https://user-images.githubusercontent.com/67630400/152112555-76ff2197-d001-4ff9-8c35-1331b2625d60.png">
 
 
+View the full design walk through here: https://youtu.be/DVQ4zIl11pI
