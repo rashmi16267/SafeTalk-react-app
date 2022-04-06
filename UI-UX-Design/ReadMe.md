@@ -1,5 +1,6 @@
 Initial proposed UI/UX Design for the application including the pages given below:
 Note: all designs created with Adobe XD
+View the detailed study on the UI/UX Design in Behance: https://www.behance.net/gallery/137727257/SafeTalk-UIUX-Design 
 
 Home Page
 
