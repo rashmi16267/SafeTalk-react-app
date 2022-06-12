@@ -10,7 +10,7 @@ const LoginForm = () => {
   const handleSubmit = async (e) => {
     e.preventDefault();
 
-    const authObject = { 'Project-ID': '6781dd0d-db12-4603-877b-86b9b1981ba8', 'User-Name': username, 'User-Secret': password };
+    const authObject = { 'Project-ID': '7464aca7-7595-4a75-a14e-9717d2945243', 'User-Name': username, 'User-Secret': password };
 
     try {
       await axios.get('https://api.chatengine.io/chats', { headers: authObject });
